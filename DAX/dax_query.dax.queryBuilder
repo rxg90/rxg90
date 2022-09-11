@@ -1,0 +1,5 @@
+// Generated DAX Query
+EVALUATE Customers
+order by 'Customers'[Yearly Income]
+start at 20000
+
