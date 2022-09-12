@@ -1,4 +1,4 @@
-https://stackoverflow.com/questions/6572754/sql-azure-copy-table-between-databases
+--https://stackoverflow.com/questions/6572754/sql-azure-copy-table-between-databases
 
 CREATE MASTER KEY ENCRYPTION BY PASSWORD = '<password>';
 
